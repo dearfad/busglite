@@ -207,7 +207,7 @@ marimo/_lsp/
 __marimo__/
 
 # Stable Diffusion
-.safetensors
+*.safetensors
 
 # Dateset
 /Dataset_BUSI_with_GT
