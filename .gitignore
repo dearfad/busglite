@@ -211,3 +211,6 @@ __marimo__/
 
 # Dateset
 /dataset
+
+# Modelscope
+/modelscope_cache
