@@ -214,3 +214,6 @@ __marimo__/
 
 # Modelscope
 /modelscope_cache
+
+# lora_output
+/lora_output
